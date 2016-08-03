@@ -1,0 +1,14 @@
+layout_spectrum: 0.42905815690755844
+typography_spectrum: 0.9649573464412242
+color:
+  brandStrength: 0.17666515382006764
+  lightness: 0.2830317001789808
+  saturation: 0.8995575106237084
+  rhythmicContrast: 0.9894500889349729
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: test_miskow
