@@ -6,9 +6,9 @@ color:
   saturation: 0.8995575106237084
   rhythmicContrast: 0.9894500889349729
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FFFFFF'
+    - '#07366A'
+    - '#000000'
+    - '#FC1E51'
+    - '#B49570'
 name: test_miskow
